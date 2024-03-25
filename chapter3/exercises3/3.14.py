@@ -1,3 +1,6 @@
+print("Exercise 3.14")
+print("\n")
+
 distance = float(input("Enter the amount of km traveled: "))
 
 print("\n")

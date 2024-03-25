@@ -1,4 +1,6 @@
+print("Exercise 3.11")
 print("\n")
+
 price = float(input("Enter the price of the product: $ "))
 discount = float(input("Enter the discount value in %: "))
 

@@ -1,3 +1,6 @@
+print("Exercise 3.13")
+print("\n")
+
 scale = input("If you want to convert from Farenheit to Celcius, enter F\n"
               "If you want to convert from Celsius to Farenheit, enter C: ")
 

@@ -1,3 +1,6 @@
+print("Exercise 3.9")
+print("\n")
+
 days = int(input("Enter the days: "))
 hours = int(input("Enter the hours: "))
 minutes = int(input("Enter the minutes: "))

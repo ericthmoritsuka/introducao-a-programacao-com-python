@@ -1,3 +1,6 @@
+print("Exercise 3.10")
+print("\n")
+
 salary = float(input("Enter the salary: "))
 porcentage = float(input("Enter the raise (%): "))
 

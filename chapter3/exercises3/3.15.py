@@ -1,3 +1,6 @@
+print("Exercise 3.15")
+print("\n")
+
 cigarettes = int(input("How many cigarettes a day do you smoke? "))
 
 print("\n")

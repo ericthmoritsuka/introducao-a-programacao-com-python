@@ -1,4 +1,6 @@
+print("Exercise 3.12")
 print("\n")
+
 distance = float(input("Enter the distance in KM: "))
 averageSpeed = float(input("Enter the assumed average speed in KM/H: "))
 

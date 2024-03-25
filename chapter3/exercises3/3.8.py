@@ -1,3 +1,6 @@
+print("Exercise 3.8")
+print("\n")
+
 meters = float(input("Enter the meters: "))
 
 millimeters = meters*1000

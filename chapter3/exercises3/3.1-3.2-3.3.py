@@ -1,5 +1,5 @@
 # 3.1
-print("Exercicio 3.1")
+print("Exercise 3.1")
 
 print("5: ", type(5))
 print("5.0: ", type(5.0))
@@ -10,7 +10,7 @@ print("1.333: ", type(1.333))
 
 # 3.2
 print("\n")
-print("Exercicio 3.2")
+print("Exercise 3.2")
 print("a, b, c, d, f = 4, 10, 5.0, 1, 5")
 a, b, c, d, f = 4, 10, 5.0, 1, 5
 
@@ -28,7 +28,7 @@ print("c <= f: ", c<=f)
 
 # 3.3
 print("\n")
-print("Exercicio 3.3")
+print("Exercise 3.3")
 print("g, h, i = True, False, True")
 
 g, h, i = True, False, True

@@ -1,8 +1,8 @@
-# Capitulo 3 - Exercicios
+# Chapter 3 - Exercises
 
 - 3.1
 
-   [3.1, 3.2, 3.3 - Checking Answers](3.1-3.2-3.3.py)
+   [3.1, 3.2, 3.3 - Checking Answers](./exercises3/3.1-3.2-3.3.py)
 
 
    | Number |   Type    |
@@ -16,7 +16,7 @@
 
 - 3.2
 
-  [3.1, 3.2, 3.3 - Checking Answers](3.1-3.2-3.3.py)
+  [3.1, 3.2, 3.3 - Checking Answers](./exercises3/3.1-3.2-3.3.py)
 
   a = 4, b = 10, c = 5.0, d = 1 e f = 5
 
@@ -36,7 +36,7 @@
 
 - 3.3
 
-  [3.1, 3.2, 3.3 - Checking Answers](3.1-3.2-3.3.py)
+  [3.1, 3.2, 3.3 - Checking Answers](./exercises3/3.1-3.2-3.3.py)
 
   g = True, h = False, i = True
 
@@ -58,7 +58,7 @@
 
 - 3.5
 
-  [3.4, 3.5, 3.6 - Checking Answers](3.4-3.5-3.6.py)
+  [3.4, 3.5, 3.6 - Checking Answers](./exercises3/3.4-3.5-3.6.py)
 
   A > B and C or D
 
@@ -70,14 +70,14 @@
   | 10 | 3 | False | False | `False` |
   | 5  | 1 | True  | True  | `True`  |
 
-- [3.7](3.7.py)
-- [3.8](3.8.py)
-- [3.9](3.9.py)
-- [3.10](3.10.py)
-- [3.11](3.11.py)
-- [3.12](3.12.py)
-- [3.13](3.13.py)
-- [3.14](3.14.py)
-- [3.15](3.15.py)
+- [3.7](./exercises3/3.7.py)
+- [3.8](./exercises3/3.8.py)
+- [3.9](./exercises3/3.9.py)
+- [3.10](./exercises3/3.10.py)
+- [3.11](./exercises3/3.11.py)
+- [3.12](./exercises3/3.12.py)
+- [3.13](./exercises3/3.13.py)
+- [3.14](./exercises3/3.14.py)
+- [3.15](./exercises3/3.15.py)
 
-[Voltar](../README.md)
+[Back](../README.md)
