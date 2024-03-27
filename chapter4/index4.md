@@ -7,4 +7,6 @@
 - [4.2](./exercises4/4.2.py)
 - [4.3](./exercises4/4.3.py)
 - [4.4](./exercises4/4.4.py)
-- 
+- [4.6](./exercises4/4.6.py)
+- [4.8](./exercises4/4.8.py)
+
